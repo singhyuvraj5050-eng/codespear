@@ -143,6 +143,3 @@ This project emphasizes system design clarity and production-oriented thinking.
 4. Branch simulation & merge logic
 5. Performance optimizations at scale
 
-📌 Author
-Alok Verma
-Full-Stack Developer
